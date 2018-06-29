@@ -286,7 +286,7 @@ __package.json__
     "description": "",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1",
-+     "build": "webpack"
++     "build": "webpack --config webpack.config.js"
     },
     "keywords": [],
     "author": "",
